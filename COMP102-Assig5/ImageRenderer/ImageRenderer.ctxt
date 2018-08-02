@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageRenderer()
+comment1.params=
+comment1.target=void\ renderImage()
+comment1.text=\ Core\:\n\ Renders\ a\ ppm\ image\ file.\n\ Asks\ for\ the\ name\ of\ the\ file,\ then\ renders\ the\ image\ at\ position\ (left,\ top).\n\ Each\ pixel\ of\ the\ image\ \ is\ rendered\ by\ a\ square\ of\ size\ pixelSize\n\ Assumes\ that\n\ -\ the\ colour\ depth\ is\ 255,\n\ -\ there\ is\ just\ one\ image\ in\ the\ file\ (not\ "animated"),\ and\n\ -\ there\ are\ no\ comments\ in\ the\ file.\n\ The\ first\ four\ tokens\ are\ P3,\ number\ of\ columns,\ number\ of\ rows,\ 255\n\ The\ remaining\ tokens\ are\ the\ pixel\ values\ (red,\ green,\ blue\ for\ each\ pixel)\n
+comment2.params=
+comment2.target=void\ renderAnimatedImage()
+comment2.text=\ Completion\ and\ Challenge\n\ Renders\ a\ ppm\ image\ file\ which\ may\ be\ animated\ (multiple\ images\ in\ the\ file)\n\ Asks\ for\ the\ name\ of\ the\ file,\ then\ renders\ the\ image\ at\ position\ (left,\ top).\n\ Each\ pixel\ of\ the\ image\ \ is\ rendered\ by\ a\ square\ of\ size\ pixelSize\n\ Renders\ each\ image\ in\ the\ file\ in\ turn\ with\ 200\ mSec\ delay.\n\ Repeats\ the\ sequence\ 3\ times.\n\ Challenge\:\n\ Ignores\ comments\ (starting\ with\ \#\ and\ occuring\ after\ the\ 1st,\ 2nd,\ or\ 3rd\ token)\ \n\ The\ colour\ depth\ (max\ colour\ value)\ may\ be\ different\ from\ 255\ (scales\ the\n\ colour\ values\ appropriately)\n
+comment3.params=input
+comment3.target=void\ renderImageCompletion(java.util.Scanner)
+numComments=4

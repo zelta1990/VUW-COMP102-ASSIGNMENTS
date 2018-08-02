@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FrogTester()
+comment0.text=Construct\ a\ new\ FrogTester\ object\ and\ initialise\ the\ interface
+comment1.params=
+comment1.target=void\ newFrog()
+comment2.params=
+comment2.target=void\ makeItHopForward()
+comment2.text=Makes\ the\ frog\ hop\ forward
+comment3.params=
+comment3.target=void\ makeItHopBack()
+comment3.text=Makes\ the\ frog\ hop\ forward
+comment4.params=
+comment4.target=void\ makeThing()
+comment4.text=Makes\ a\ thing\ in\ a\ random\ lane,\ and\ splats\ the\ frog\ if\ it\ is\ in\ that\ lane
+comment5.params=msg
+comment5.target=void\ message(java.lang.String)
+comment5.text=draws\ a\ message\ for\ a\ second
+comment6.params=arguments
+comment6.target=void\ main(java.lang.String[])
+numComments=7

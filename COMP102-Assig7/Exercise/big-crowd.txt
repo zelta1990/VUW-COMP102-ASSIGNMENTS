@@ -1,0 +1,8 @@
+7
+turtle Berthie 657 606
+tiger Khan 66 162
+snake Sneaky 489 420
+grasshoper Jumpy 178 424
+dog Charlie 426 214
+dinosaur Nessie 154 652
+bird Fred 605 144

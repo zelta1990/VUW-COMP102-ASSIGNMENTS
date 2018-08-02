@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=dir\ lane\ x
+comment0.target=Car(java.lang.String,\ int,\ double)
+comment0.text=\n\ Make\ a\ new\ car,\ specifying\ the\ direction,\ the\ lane,\n\ and\ the\ x\ position\ in\ the\ lane\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ Move\ the\ car\ according\ to\ its\ speed\ and\ direction\:\ \ erase,\ change\ position,\ redraw\n\ If\ it\ goes\ past\ the\ end\ of\ the\ road,\ move\ it\ to\ the\ other\ end.\n\ (if\ moving\ to\ the\ right,\ the\ end\ of\ the\ road\ is\ FrogGame.ROAD_RIGHT,\n\ \ if\ moving\ to\ the\ left,\ the\ end\ of\ the\ road\ is\ FrogGame.ROAD_LEFT.\n
+comment2.params=
+comment2.target=int\ getLane()
+comment2.text=\n\ Return\ the\ lane\ the\ car\ is\ in\n
+comment3.params=
+comment3.target=double\ getX()
+comment3.text=\n\ Return\ the\ x\ position\ of\ the\ car\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\n\ Draw\ the\ car\ at\ its\ current\ position.\n\ \ The\ roof\ portion\ should\ be\ a\ darker\ version\ of\ the\ colour\ of\ the\ body.\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\n\ Erase\ the\ car\ from\ its\ current\ position\n
+numComments=6

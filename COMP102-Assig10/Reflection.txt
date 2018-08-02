@@ -1,0 +1,11 @@
+
+This was the last assignment for COMP102.  Think back to the beginning of the
+course and what you knew at that point, and then list some of the new skills
+and understanding that you believe that you have gained during this course.
+
+I learned how to create objects, use for loops and while loops for repetitive jobs, read data from a file, save data to a file,set up GUI interface and process data with array and array list.
+
+
+[For some of you who are still finding the course difficult, you could
+try doing some of the early assignments again; you may find them an awful lot
+easier the second time round, demonstrating that you have learned stuff!]

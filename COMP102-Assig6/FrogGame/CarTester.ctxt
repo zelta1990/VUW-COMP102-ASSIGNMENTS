@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarTester()
+comment0.text=Construct\ a\ new\ CarTester\ object\ and\ initialise\ the\ interface
+comment1.params=
+comment1.target=void\ testCars()
+comment1.text=\n\ Test\ the\ cars.\ \ Makes\ three\ cars,\ one\ going\ right\ and\ two\ going\ left,\n\ then\ makes\ them\ repeatedly\ move\ for\ ever.\n\ Prints\ a\ message\ every\ time\ the\ first\ car\ is\ overlapping\ FrogGame.FROG_X\n
+comment2.params=msg
+comment2.target=void\ message(java.lang.String)
+comment2.text=draws\ a\ message\ for\ a\ second
+comment3.params=arguments
+comment3.target=void\ main(java.lang.String[])
+numComments=4

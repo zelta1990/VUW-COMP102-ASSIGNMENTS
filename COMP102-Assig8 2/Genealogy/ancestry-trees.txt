@@ -1,0 +1,2356 @@
+Enrique, born:1569
+--f : Jordan, born:1548
+--f--m : Jimena, born:1528
+--f--m--f : Trystan, born:1502
+----------------
+Arlene, born:1933
+--m : Toni, born:1911
+--m--f : Perry, born:1889
+--m--f--m : Kristina, born:1865
+--m--f--m--m : Tianna, born:1851
+--m--f--m--f : Dane, born:1841
+----------------
+Emely, born:1922
+--m : Larissa, born:1902
+--m--m : Virginia, born:1883
+--m--f : Devante, born:1879
+----------------
+Jennifer, born:1815
+--f : Joshua, born:1791
+--f--f : Grady, born:1764
+--f--f--f : Nehemiah, born:1742
+--f--f--f--m : Alana, born:1719
+--f--f--f--m--m : Morgan, born:1815
+--f--f--f--m--f : Finn, born:1696
+--f--f--f--m--f--m : Jaclyn, born:1669
+--f--f--f--m--f--m--f : Austen, born:1641
+--f--f--f--m--f--m--f--m : Karissa, born:1623
+--f--f--f--m--f--m--f--m--f : Rodrigo, born:1599
+--f--f--f--m--f--m--f--m--f--m : Marlee, born:1571
+--f--f--f--m--f--m--f--m--f--m--m : Essence, born:1552
+--f--f--f--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--f--f--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--f--f--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--f--f--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--f--f--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--f--f--m--f--m--f--m--f--f : Bryant, born:1600
+--f--f--f--m--f--m--f--m--f--f--f : Colten, born:1582
+--f--f--f--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--f--f--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--f--f--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f--f--m--f--m--f--f : Kristofer, born:1708
+----------------
+Elisabeth, born:1941
+--m : Jenifer, born:1917
+--m--m : Bethany, born:1890
+--m--m--f : Giovanni, born:1865
+--m--f : Harley, born:1898
+--m--f--f : Stuart, born:1873
+--m--f--f--f : Thomas, born:1848
+--f : Payton, born:1933
+----------------
+Leanna, born:1791
+--f : Grady, born:1764
+--f--f : Nehemiah, born:1742
+--f--f--m : Alana, born:1719
+--f--f--m--m : Morgan, born:1815
+--f--f--m--f : Finn, born:1696
+--f--f--m--f--m : Jaclyn, born:1669
+--f--f--m--f--m--f : Austen, born:1641
+--f--f--m--f--m--f--m : Karissa, born:1623
+--f--f--m--f--m--f--m--f : Rodrigo, born:1599
+--f--f--m--f--m--f--m--f--m : Marlee, born:1571
+--f--f--m--f--m--f--m--f--m--m : Essence, born:1552
+--f--f--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--f--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--f--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--f--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--f--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--f--m--f--m--f--m--f--f : Bryant, born:1600
+--f--f--m--f--m--f--m--f--f--f : Colten, born:1582
+--f--f--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--f--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--f--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f--m--f--m--f--f : Kristofer, born:1708
+----------------
+Natalie, born:1929
+--f : Tony, born:1908
+--f--f : Justus, born:1885
+--f--f--m : Alisa, born:1853
+--f--f--m--f : Keyon, born:1825
+--f--f--m--f--f : Dwayne, born:1799
+--f--f--m--f--f--f : Salvatore, born:1777
+--f--f--m--f--f--f--m : Alisha, born:1757
+--f--f--m--f--f--f--m--f : Moises, born:1732
+--f--f--f : Dominique, born:1888
+--f--f--f--f : Gino, born:1864
+----------------
+Bryan, born:1869
+--f : Karson, born:1846
+----------------
+Brisa, born:1899
+--m : Estrella, born:1880
+--m--f : Steve, born:1860
+--f : Alfredo, born:1880
+----------------
+Kaitlyn, born:1960
+--f : Elliott, born:1938
+----------------
+Charles, born:1934
+--m : Angela, born:1915
+--f : Trace, born:1908
+----------------
+Gonzalo, born:1876
+--m : Alisa, born:1853
+--m--f : Keyon, born:1825
+--m--f--f : Dwayne, born:1799
+--m--f--f--f : Salvatore, born:1777
+--m--f--f--f--m : Alisha, born:1757
+--m--f--f--f--m--f : Moises, born:1732
+--f : Dominique, born:1888
+--f--f : Gino, born:1864
+----------------
+Jarrod, born:1950
+--m : Maddison, born:1939
+--f : Syed, born:1925
+----------------
+Ryley, born:1980
+--m : Sydney, born:1957
+--m--f : Antoine, born:1928
+----------------
+Jarred, born:1974
+--f : Brice, born:1952
+----------------
+Rory, born:1844
+--f : Gaige, born:1820
+----------------
+Kourtney, born:1960
+--m : Odalys, born:1941
+----------------
+Lucia, born:1889
+--m : Sheila, born:1868
+--m--m : Ciara, born:1843
+--m--m--m : Nina, born:1821
+----------------
+Jared, born:1945
+--m : Christina, born:1932
+--f : Oliver, born:1927
+--f--f : Eliezer, born:1904
+----------------
+Xavier, born:1946
+--f : Nasir, born:1921
+--f--m : Liliana, born:1897
+--f--f : Irvin, born:1894
+----------------
+Tori, born:1888
+--f : Izaiah, born:1862
+--f--f : Addison, born:1834
+--f--f--m : Jayden, born:1808
+--f--f--m--f : Darrius, born:1779
+--f--f--m--f--m : Carla, born:1755
+--f--f--m--f--m--f : Elvis, born:1729
+--f--f--f : Todd, born:1838
+----------------
+Keanu, born:1974
+--m : Jaliyah, born:1953
+----------------
+Alia, born:1795
+--m : Roxana, born:1773
+----------------
+Kendall, born:1847
+--f : Trevor, born:1820
+----------------
+Terrence, born:1926
+--m : Kianna, born:1936
+--f : Jermaine, born:1908
+--f--m : Angeline, born:1900
+--f--f : Deshaun, born:1882
+--f--f--f : Aidan, born:1861
+----------------
+Jayce, born:1937
+--m : Aryanna, born:1952
+--f : Brenden, born:1919
+--f--m : Alycia, born:1901
+--f--m--m : Jazmyn, born:1877
+--f--m--m--f : Aditya, born:1850
+----------------
+Jeffrey, born:1874
+--m : Kelly, born:1848
+--m--m : Kirsten, born:1820
+--m--m--f : Mauricio, born:1795
+----------------
+Kalyn, born:1942
+--f : Winston, born:1924
+----------------
+Dalton, born:1865
+--m : Alize, born:1847
+----------------
+Moshe, born:1917
+--f : Clark, born:1897
+--f--f : Asa, born:1874
+--f--f--f : Pierre, born:1852
+--f--f--f--m : Hayley, born:1842
+--f--f--f--m--m : Desiree, born:1810
+--f--f--f--m--m--f : Deandre, born:1783
+--f--f--f--f : Tristen, born:1829
+--f--f--f--f--m : Desiree, born:1810
+--f--f--f--f--m--f : Deandre, born:1783
+----------------
+Raul, born:1891
+--f : Giovanni, born:1865
+----------------
+Coby, born:1963
+--f : Devon, born:1942
+----------------
+Dakota, born:1882
+--m : Reagan, born:1860
+--m--m : Aspen, born:1851
+--m--m--f : Jadyn, born:1826
+--m--m--f--m : Asia, born:1799
+--m--f : Bruno, born:1832
+--m--f--m : Asia, born:1799
+--f : Ariel, born:1877
+--f--m : Deja, born:1852
+--f--m--m : Scarlett, born:1828
+--f--m--m--f : Garrett, born:1805
+----------------
+Reece, born:1759
+--f : Moises, born:1732
+----------------
+Erica, born:1820
+--m : Lara, born:1806
+--f : Mekhi, born:1794
+--f--m : Roxana, born:1773
+----------------
+Kiara, born:1911
+--f : Robert, born:1889
+--f--f : Aidan, born:1861
+----------------
+Kari, born:1955
+--m : Viviana, born:1934
+--m--m : Ava, born:1913
+----------------
+Athena, born:1828
+--f : Spencer, born:1809
+--f--m : Reina, born:1783
+----------------
+Dominic, born:1957
+--f : Connor, born:1936
+----------------
+Reanna, born:1961
+--m : Odalys, born:1941
+----------------
+Korey, born:1946
+--m : Katherine, born:1923
+----------------
+Kyree, born:1984
+--f : Tariq, born:1961
+----------------
+Allyson, born:1963
+--m : Lia, born:1938
+--m--m : Maleah, born:1916
+--f : Dallin, born:1943
+----------------
+George, born:1976
+--f : Dangelo, born:1950
+----------------
+Wyatt, born:1947
+--m : Karly, born:1920
+----------------
+Freddie, born:1969
+--f : Milton, born:1948
+----------------
+Demarcus, born:1890
+--m : Sheila, born:1868
+--m--m : Ciara, born:1843
+--m--m--m : Nina, born:1821
+----------------
+Lesly, born:1935
+--f : Bradley, born:1917
+--f--f : Humberto, born:1896
+----------------
+Mercedes, born:1949
+--m : Vivian, born:1925
+--m--f : Glen, born:1907
+--m--f--m : Estrella, born:1880
+--m--f--m--f : Steve, born:1860
+--m--f--f : Alfredo, born:1880
+----------------
+Jamil, born:1876
+--m : Kelly, born:1848
+--m--m : Kirsten, born:1820
+--m--m--f : Mauricio, born:1795
+----------------
+William, born:1887
+--m : Dania, born:1861
+--m--f : Addison, born:1834
+--m--f--m : Jayden, born:1808
+--m--f--m--f : Darrius, born:1779
+--m--f--m--f--m : Carla, born:1755
+--m--f--m--f--m--f : Elvis, born:1729
+--m--f--f : Todd, born:1838
+--f : Camden, born:1891
+--f--f : Izaiah, born:1862
+--f--f--f : Addison, born:1834
+--f--f--f--m : Jayden, born:1808
+--f--f--f--m--f : Darrius, born:1779
+--f--f--f--m--f--m : Carla, born:1755
+--f--f--f--m--f--m--f : Elvis, born:1729
+--f--f--f--f : Todd, born:1838
+----------------
+Alexandrea, born:1942
+--f : Stephen, born:1924
+----------------
+Jorge, born:1925
+--f : Clark, born:1897
+--f--f : Asa, born:1874
+--f--f--f : Pierre, born:1852
+--f--f--f--m : Hayley, born:1842
+--f--f--f--m--m : Desiree, born:1810
+--f--f--f--m--m--f : Deandre, born:1783
+--f--f--f--f : Tristen, born:1829
+--f--f--f--f--m : Desiree, born:1810
+--f--f--f--f--m--f : Deandre, born:1783
+----------------
+Candace, born:1924
+--m : Esperanza, born:1898
+--m--f : Tre, born:1872
+--m--f--f : Karson, born:1846
+----------------
+Khalil, born:1943
+--f : Nasir, born:1921
+--f--m : Liliana, born:1897
+--f--f : Irvin, born:1894
+----------------
+Gabriella, born:1963
+--m : Hazel, born:1944
+----------------
+Raquel, born:2003
+--m : Alina, born:1981
+----------------
+Rosa, born:1842
+--m : Alysha, born:1830
+--m--f : Zakary, born:1809
+--f : Antonio, born:1824
+--f--f : Drew, born:1801
+--f--f--m : Reina, born:1783
+----------------
+Eric, born:1829
+--f : Johnny, born:1810
+----------------
+Maurice, born:1952
+--f : Felix, born:1934
+--f--f : Jace, born:1916
+----------------
+Mike, born:1889
+--m : Kristina, born:1865
+--m--m : Tianna, born:1851
+--m--f : Dane, born:1841
+----------------
+Courtney, born:1982
+--m : Kira, born:1959
+----------------
+Eden, born:1776
+--m : Carla, born:1755
+--m--f : Elvis, born:1729
+----------------
+Ellis, born:1593
+--f : Haden, born:1575
+--f--m : Kyleigh, born:1928
+--f--f : Jaquez, born:1549
+--f--f--m : Jimena, born:1528
+--f--f--m--f : Trystan, born:1502
+----------------
+Marcel, born:2004
+--m : Nyla, born:1986
+--m--m : Meghan, born:1959
+----------------
+Stanley, born:1914
+--m : Melany, born:1959
+--m--m : Marie, born:1937
+--f : Arthur, born:1891
+--f--f : Stuart, born:1873
+--f--f--f : Thomas, born:1848
+----------------
+Carli, born:1932
+--m : Jaime, born:1955
+--f : Brandon, born:1910
+--f--m : Kaitlin, born:1883
+--f--m--m : Precious, born:1862
+--f--m--m--f : Darion, born:1841
+--f--m--m--f--m : Tristan, born:1821
+----------------
+Kaylin, born:1895
+--f : Myles, born:1872
+--f--f : Pierre, born:1852
+--f--f--m : Hayley, born:1842
+--f--f--m--m : Desiree, born:1810
+--f--f--m--m--f : Deandre, born:1783
+--f--f--f : Tristen, born:1829
+--f--f--f--m : Desiree, born:1810
+--f--f--f--m--f : Deandre, born:1783
+----------------
+Shanon, born:1915
+--m : Emmalee, born:1897
+--m--f : Bernard, born:1875
+--m--f--m : Elise, born:1851
+--m--f--m--f : Gaige, born:1820
+--m--f--f : Isaac, born:1856
+----------------
+Kaden, born:1889
+--m : Precious, born:1862
+--m--f : Darion, born:1841
+--m--f--m : Tristan, born:1821
+----------------
+Clayton, born:1786
+--f : Grady, born:1764
+--f--f : Nehemiah, born:1742
+--f--f--m : Alana, born:1719
+--f--f--m--m : Morgan, born:1815
+--f--f--m--f : Finn, born:1696
+--f--f--m--f--m : Jaclyn, born:1669
+--f--f--m--f--m--f : Austen, born:1641
+--f--f--m--f--m--f--m : Karissa, born:1623
+--f--f--m--f--m--f--m--f : Rodrigo, born:1599
+--f--f--m--f--m--f--m--f--m : Marlee, born:1571
+--f--f--m--f--m--f--m--f--m--m : Essence, born:1552
+--f--f--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--f--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--f--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--f--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--f--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--f--m--f--m--f--m--f--f : Bryant, born:1600
+--f--f--m--f--m--f--m--f--f--f : Colten, born:1582
+--f--f--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--f--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--f--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f--m--f--m--f--f : Kristofer, born:1708
+----------------
+Rudy, born:1940
+--m : Leila, born:1922
+--m--m : Mckenna, born:1897
+--m--m--f : Camron, born:1874
+--m--f : Brenton, born:1903
+--m--f--f : Camron, born:1874
+----------------
+Kaila, born:1986
+--f : Abdullah, born:1966
+----------------
+Sterling, born:1908
+--f : Perry, born:1889
+--f--m : Kristina, born:1865
+--f--m--m : Tianna, born:1851
+--f--m--f : Dane, born:1841
+----------------
+Myra, born:1598
+--m : Marlee, born:1571
+--m--m : Essence, born:1552
+--m--m--f : Ronaldo, born:1531
+--m--m--f--m : Sarina, born:1503
+--m--m--f--m--m : Christiana, born:1484
+--m--m--f--m--m--f : Brian, born:1464
+--m--m--f--m--f : Victor, born:1499
+--f : Bryant, born:1600
+--f--f : Colten, born:1582
+--f--f--m : Mina, born:1555
+--f--f--m--m : Jimena, born:1528
+--f--f--m--m--f : Trystan, born:1502
+----------------
+Bobby, born:1990
+--f : Jamir, born:1971
+----------------
+Bria, born:1865
+--m : Ciara, born:1843
+--m--m : Nina, born:1821
+----------------
+Alena, born:1958
+--m : Lexie, born:1935
+----------------
+Maximus, born:1816
+--f : Joshua, born:1791
+--f--f : Grady, born:1764
+--f--f--f : Nehemiah, born:1742
+--f--f--f--m : Alana, born:1719
+--f--f--f--m--m : Morgan, born:1815
+--f--f--f--m--f : Finn, born:1696
+--f--f--f--m--f--m : Jaclyn, born:1669
+--f--f--f--m--f--m--f : Austen, born:1641
+--f--f--f--m--f--m--f--m : Karissa, born:1623
+--f--f--f--m--f--m--f--m--f : Rodrigo, born:1599
+--f--f--f--m--f--m--f--m--f--m : Marlee, born:1571
+--f--f--f--m--f--m--f--m--f--m--m : Essence, born:1552
+--f--f--f--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--f--f--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--f--f--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--f--f--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--f--f--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--f--f--m--f--m--f--m--f--f : Bryant, born:1600
+--f--f--f--m--f--m--f--m--f--f--f : Colten, born:1582
+--f--f--f--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--f--f--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--f--f--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f--f--m--f--m--f--f : Kristofer, born:1708
+----------------
+Laurel, born:1806
+--f : Deandre, born:1783
+----------------
+Adolfo, born:1911
+--m : Julie, born:1890
+--m--f : Izaiah, born:1862
+--m--f--f : Addison, born:1834
+--m--f--f--m : Jayden, born:1808
+--m--f--f--m--f : Darrius, born:1779
+--m--f--f--m--f--m : Carla, born:1755
+--m--f--f--m--f--m--f : Elvis, born:1729
+--m--f--f--f : Todd, born:1838
+--f : Luca, born:1892
+--f--f : Carson, born:1873
+--f--f--f : Kody, born:1853
+--f--f--f--m : Alysha, born:1830
+--f--f--f--m--f : Zakary, born:1809
+--f--f--f--f : Antonio, born:1824
+--f--f--f--f--f : Drew, born:1801
+--f--f--f--f--f--m : Reina, born:1783
+----------------
+Jalen, born:1946
+--f : Nasir, born:1921
+--f--m : Liliana, born:1897
+--f--f : Irvin, born:1894
+----------------
+Maximo, born:1986
+--m : Savannah, born:1976
+--f : Orlando, born:1963
+----------------
+Tyson, born:1947
+--m : Alyssa, born:1929
+--m--f : Julian, born:1898
+----------------
+Taryn, born:1982
+--m : Skyla, born:1964
+----------------
+Chelsea, born:1894
+--f : Ben, born:1874
+--f--m : Keeley, born:1847
+--f--m--m : Jalynn, born:1825
+--f--m--m--m : Lara, born:1806
+--f--m--m--f : Mekhi, born:1794
+--f--m--m--f--m : Roxana, born:1773
+--f--m--f : Justin, born:1846
+--f--m--f--f : Trevor, born:1820
+----------------
+Lesley, born:1968
+--m : Lia, born:1938
+--m--m : Maleah, born:1916
+--f : Dallin, born:1943
+----------------
+Freddy, born:1928
+--f : Tobias, born:1905
+--f--f : Rickey, born:1884
+--f--f--m : Hailee, born:1861
+--f--f--f : Nathaniel, born:1864
+----------------
+Anastasia, born:1968
+--f : Casey, born:1942
+----------------
+Riley, born:1886
+--f : Joan, born:1857
+--f--m : Annalise, born:1843
+--f--f : Allan, born:1835
+--f--f--f : Johnny, born:1810
+----------------
+Karlie, born:1884
+--m : Reagan, born:1860
+--m--m : Aspen, born:1851
+--m--m--f : Jadyn, born:1826
+--m--m--f--m : Asia, born:1799
+--m--f : Bruno, born:1832
+--m--f--m : Asia, born:1799
+--f : Ariel, born:1877
+--f--m : Deja, born:1852
+--f--m--m : Scarlett, born:1828
+--f--m--m--f : Garrett, born:1805
+----------------
+Conrad, born:1919
+--m : Esperanza, born:1898
+--m--f : Tre, born:1872
+--m--f--f : Karson, born:1846
+----------------
+Tracy, born:1949
+--m : Shyann, born:1930
+--m--f : Isaiah, born:1905
+----------------
+Leticia, born:1870
+--f : Thomas, born:1848
+----------------
+Sebastian, born:1891
+--f : Zackery, born:1869
+--f--m : Sarai, born:1848
+----------------
+Nikki, born:1906
+--f : Dallas, born:1883
+--f--f : Marquise, born:1864
+--f--f--m : Keila, born:1830
+----------------
+Josef, born:1666
+--f : Austen, born:1641
+--f--m : Karissa, born:1623
+--f--m--f : Rodrigo, born:1599
+--f--m--f--m : Marlee, born:1571
+--f--m--f--m--m : Essence, born:1552
+--f--m--f--m--m--f : Ronaldo, born:1531
+--f--m--f--m--m--f--m : Sarina, born:1503
+--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--m--f--f : Bryant, born:1600
+--f--m--f--f--f : Colten, born:1582
+--f--m--f--f--f--m : Mina, born:1555
+--f--m--f--f--f--m--m : Jimena, born:1528
+--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f : Kristofer, born:1708
+----------------
+Lizette, born:1979
+--f : Micah, born:1953
+----------------
+Elmer, born:1899
+--f : Asa, born:1874
+--f--f : Pierre, born:1852
+--f--f--m : Hayley, born:1842
+--f--f--m--m : Desiree, born:1810
+--f--f--m--m--f : Deandre, born:1783
+--f--f--f : Tristen, born:1829
+--f--f--f--m : Desiree, born:1810
+--f--f--f--m--f : Deandre, born:1783
+----------------
+Eduardo, born:1823
+--m : Asia, born:1799
+----------------
+Issac, born:1912
+--m : Ashleigh, born:1894
+--m--m : Caitlyn, born:1873
+--m--m--m : Kelly, born:1848
+--m--m--m--m : Kirsten, born:1820
+--m--m--m--m--f : Mauricio, born:1795
+--m--f : Dontae, born:1877
+--m--f--m : Elise, born:1851
+--m--f--m--f : Gaige, born:1820
+--m--f--f : Isaac, born:1856
+----------------
+Moriah, born:1930
+--f : Tobias, born:1905
+--f--f : Rickey, born:1884
+--f--f--m : Hailee, born:1861
+--f--f--f : Nathaniel, born:1864
+----------------
+Sheldon, born:1857
+--f : Cason, born:1838
+--f--f : Zakary, born:1809
+----------------
+Madeline, born:1961
+--m : Karli, born:1941
+--m--m : Angela, born:1915
+--m--f : Trace, born:1908
+----------------
+Meagan, born:1982
+--m : Reyna, born:1962
+--m--f : Devon, born:1942
+----------------
+Jacey, born:1571
+--m : Emilie, born:1550
+--m--f : Ronaldo, born:1531
+--m--f--m : Sarina, born:1503
+--m--f--m--m : Christiana, born:1484
+--m--f--m--m--f : Brian, born:1464
+--m--f--m--f : Victor, born:1499
+----------------
+Titus, born:1989
+--f : Skylar, born:1969
+----------------
+Aurora, born:1887
+--f : Gino, born:1864
+----------------
+Aniya, born:1955
+--f : Antoine, born:1928
+----------------
+Hannah, born:1529
+--m : Sarina, born:1503
+--m--m : Christiana, born:1484
+--m--m--f : Brian, born:1464
+--m--f : Victor, born:1499
+----------------
+Halle, born:1932
+--m : Angela, born:1915
+--f : Trace, born:1908
+----------------
+Raphael, born:1921
+--m : Ashleigh, born:1894
+--m--m : Caitlyn, born:1873
+--m--m--m : Kelly, born:1848
+--m--m--m--m : Kirsten, born:1820
+--m--m--m--m--f : Mauricio, born:1795
+--m--f : Dontae, born:1877
+--m--f--m : Elise, born:1851
+--m--f--m--f : Gaige, born:1820
+--m--f--f : Isaac, born:1856
+----------------
+Grant, born:1953
+--f : Timothy, born:1928
+----------------
+Alexa, born:1796
+--m : Roxana, born:1773
+----------------
+Haven, born:1725
+--f : Logan, born:1699
+--f--f : Marco, born:1674
+----------------
+Nathan, born:1942
+--m : Elle, born:1927
+--m--m : Larissa, born:1902
+--m--m--m : Virginia, born:1883
+--m--m--f : Devante, born:1879
+--f : Aryan, born:1923
+--f--m : Jolie, born:1898
+--f--m--m : Maria, born:1888
+--f--m--f : Conor, born:1874
+--f--m--f--m : Alize, born:1847
+----------------
+Junior, born:1874
+--f : Karson, born:1846
+----------------
+Myah, born:1892
+--f : Camron, born:1874
+----------------
+Jaylene, born:1918
+--f : Humberto, born:1896
+----------------
+Mariela, born:1967
+--m : Kaelyn, born:1945
+----------------
+Mikaela, born:1960
+--m : Chasity, born:1940
+----------------
+Kaya, born:1944
+--m : Maeve, born:1919
+--m--f : Emanuel, born:1897
+--f : Owen, born:1941
+----------------
+Larry, born:1962
+--f : Malachi, born:1942
+--f--m : Felicity, born:1923
+--f--m--m : Esperanza, born:1898
+--f--m--m--f : Tre, born:1872
+--f--m--m--f--f : Karson, born:1846
+----------------
+Shaun, born:1825
+--f : Dwayne, born:1799
+--f--f : Salvatore, born:1777
+--f--f--m : Alisha, born:1757
+--f--f--m--f : Moises, born:1732
+----------------
+Mason, born:1756
+--f : Elvis, born:1729
+----------------
+Shayna, born:1952
+--m : Mayra, born:1930
+--m--f : Marcos, born:1896
+--m--f--f : Avery, born:1869
+----------------
+Iyanna, born:1853
+--m : Aspen, born:1851
+--m--f : Jadyn, born:1826
+--m--f--m : Asia, born:1799
+--f : Bruno, born:1832
+--f--m : Asia, born:1799
+----------------
+Esther, born:1926
+--f : Ezekiel, born:1902
+--f--m : Kayla, born:1885
+--f--m--m : Eve, born:1859
+--f--m--m--m : Jamie, born:1835
+--f--m--m--f : Jamie, born:1835
+--f--f : Kale, born:1884
+--f--f--m : Hailee, born:1861
+--f--f--f : Nathaniel, born:1864
+----------------
+Jocelyn, born:1907
+--m : Brittany, born:1881
+--f : August, born:1891
+----------------
+Fred, born:1696
+--m : Jaclyn, born:1669
+--m--f : Austen, born:1641
+--m--f--m : Karissa, born:1623
+--m--f--m--f : Rodrigo, born:1599
+--m--f--m--f--m : Marlee, born:1571
+--m--f--m--f--m--m : Essence, born:1552
+--m--f--m--f--m--m--f : Ronaldo, born:1531
+--m--f--m--f--m--m--f--m : Sarina, born:1503
+--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--m--f--m--f--f : Bryant, born:1600
+--m--f--m--f--f--f : Colten, born:1582
+--m--f--m--f--f--f--m : Mina, born:1555
+--m--f--m--f--f--f--m--m : Jimena, born:1528
+--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--m--f--f : Kristofer, born:1708
+----------------
+Easton, born:1926
+--m : Ashleigh, born:1894
+--m--m : Caitlyn, born:1873
+--m--m--m : Kelly, born:1848
+--m--m--m--m : Kirsten, born:1820
+--m--m--m--m--f : Mauricio, born:1795
+--m--f : Dontae, born:1877
+--m--f--m : Elise, born:1851
+--m--f--m--f : Gaige, born:1820
+--m--f--f : Isaac, born:1856
+----------------
+Troy, born:1916
+--m : Julie, born:1890
+--m--f : Izaiah, born:1862
+--m--f--f : Addison, born:1834
+--m--f--f--m : Jayden, born:1808
+--m--f--f--m--f : Darrius, born:1779
+--m--f--f--m--f--m : Carla, born:1755
+--m--f--f--m--f--m--f : Elvis, born:1729
+--m--f--f--f : Todd, born:1838
+--f : Luca, born:1892
+--f--f : Carson, born:1873
+--f--f--f : Kody, born:1853
+--f--f--f--m : Alysha, born:1830
+--f--f--f--m--f : Zakary, born:1809
+--f--f--f--f : Antonio, born:1824
+--f--f--f--f--f : Drew, born:1801
+--f--f--f--f--f--m : Reina, born:1783
+----------------
+Jasper, born:1862
+--f : Darion, born:1841
+--f--m : Tristan, born:1821
+----------------
+Adison, born:1962
+--m : Lexie, born:1935
+----------------
+Joselyn, born:1963
+--f : Sergio, born:1941
+----------------
+Priscilla, born:1925
+--m : Daisy, born:1906
+----------------
+Gideon, born:1989
+--f : Walker, born:1965
+--f--m : Bridget, born:1945
+----------------
+Alvin, born:1795
+--f : Salvatore, born:1777
+--f--m : Alisha, born:1757
+--f--m--f : Moises, born:1732
+----------------
+Rodolfo, born:1804
+--f : Darrius, born:1779
+--f--m : Carla, born:1755
+--f--m--f : Elvis, born:1729
+----------------
+Tucker, born:1891
+--m : Hailee, born:1861
+--f : Nathaniel, born:1864
+----------------
+Eva, born:1922
+--m : Mckenna, born:1897
+--m--f : Camron, born:1874
+--f : Brenton, born:1903
+--f--f : Camron, born:1874
+----------------
+Kristin, born:1861
+--f : Addison, born:1834
+--f--m : Jayden, born:1808
+--f--m--f : Darrius, born:1779
+--f--m--f--m : Carla, born:1755
+--f--m--f--m--f : Elvis, born:1729
+--f--f : Todd, born:1838
+----------------
+Patrick, born:1625
+--f : Rodrigo, born:1599
+--f--m : Marlee, born:1571
+--f--m--m : Essence, born:1552
+--f--m--m--f : Ronaldo, born:1531
+--f--m--m--f--m : Sarina, born:1503
+--f--m--m--f--m--m : Christiana, born:1484
+--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--m--f--m--f : Victor, born:1499
+--f--f : Bryant, born:1600
+--f--f--f : Colten, born:1582
+--f--f--f--m : Mina, born:1555
+--f--f--f--m--m : Jimena, born:1528
+--f--f--f--m--m--f : Trystan, born:1502
+----------------
+Sara, born:1959
+--f : Connor, born:1936
+----------------
+Dimitri, born:1919
+--f : Heriberto, born:1894
+--f--f : Zackery, born:1869
+--f--f--m : Sarai, born:1848
+----------------
+Ivan, born:1969
+--m : Katelynn, born:1945
+--m--m : Karly, born:1920
+----------------
+John, born:1968
+--f : Dangelo, born:1950
+----------------
+Thaddeus, born:1926
+--m : Aubree, born:1907
+--m--m : Kayla, born:1885
+--m--m--m : Eve, born:1859
+--m--m--m--m : Jamie, born:1835
+--m--m--m--f : Jamie, born:1835
+--m--f : Kale, born:1884
+--m--f--m : Hailee, born:1861
+--m--f--f : Nathaniel, born:1864
+----------------
+Kasey, born:1949
+--m : Maeve, born:1919
+--m--f : Emanuel, born:1897
+--f : Owen, born:1941
+----------------
+India, born:1955
+--f : Byron, born:1933
+----------------
+Shannon, born:1990
+--f : Alex, born:1972
+--f--m : Maegan, born:1948
+----------------
+Luis, born:1945
+--m : Alanis, born:1922
+--m--m : Itzel, born:1901
+----------------
+Madalyn, born:1846
+--f : Jadyn, born:1826
+--f--m : Asia, born:1799
+----------------
+Kaylee, born:1962
+--m : Kennedy, born:1935
+--f : Caiden, born:1957
+----------------
+Darrell, born:1952
+--f : Winston, born:1924
+----------------
+Nayeli, born:1924
+--f : Keshawn, born:1902
+--f--m : Virginia, born:1883
+--f--f : Devante, born:1879
+----------------
+Bryson, born:1692
+--f : Marco, born:1674
+----------------
+Marley, born:1855
+--f : Jadyn, born:1826
+--f--m : Asia, born:1799
+----------------
+Layne, born:1882
+--m : Dania, born:1861
+--m--f : Addison, born:1834
+--m--f--m : Jayden, born:1808
+--m--f--m--f : Darrius, born:1779
+--m--f--m--f--m : Carla, born:1755
+--m--f--m--f--m--f : Elvis, born:1729
+--m--f--f : Todd, born:1838
+--f : Camden, born:1891
+--f--f : Izaiah, born:1862
+--f--f--f : Addison, born:1834
+--f--f--f--m : Jayden, born:1808
+--f--f--f--m--f : Darrius, born:1779
+--f--f--f--m--f--m : Carla, born:1755
+--f--f--f--m--f--m--f : Elvis, born:1729
+--f--f--f--f : Todd, born:1838
+----------------
+Leonel, born:1980
+--f : Jerome, born:1961
+----------------
+Trevon, born:1982
+--m : Kira, born:1959
+----------------
+Kaiya, born:1971
+--f : Sergio, born:1941
+----------------
+Chad, born:1951
+--m : Ashlee, born:1929
+--f : Brennan, born:1940
+----------------
+Lindsey, born:1860
+--m : Tianna, born:1851
+--f : Dane, born:1841
+----------------
+Johnathon, born:1936
+--m : Maleah, born:1916
+----------------
+Destinee, born:1907
+--m : Estrella, born:1880
+--m--f : Steve, born:1860
+--f : Alfredo, born:1880
+----------------
+Brandy, born:1913
+--f : Dallas, born:1883
+--f--f : Marquise, born:1864
+--f--f--m : Keila, born:1830
+----------------
+Tyra, born:1961
+--f : Ahmed, born:1939
+--f--m : Maleah, born:1916
+----------------
+Yvonne, born:1854
+--m : Keila, born:1830
+----------------
+Mandy, born:1906
+--f : Justus, born:1885
+--f--m : Alisa, born:1853
+--f--m--f : Keyon, born:1825
+--f--m--f--f : Dwayne, born:1799
+--f--m--f--f--f : Salvatore, born:1777
+--f--m--f--f--f--m : Alisha, born:1757
+--f--m--f--f--f--m--f : Moises, born:1732
+--f--f : Dominique, born:1888
+--f--f--f : Gino, born:1864
+----------------
+Britney, born:1594
+--m : Marlee, born:1571
+--m--m : Essence, born:1552
+--m--m--f : Ronaldo, born:1531
+--m--m--f--m : Sarina, born:1503
+--m--m--f--m--m : Christiana, born:1484
+--m--m--f--m--m--f : Brian, born:1464
+--m--m--f--m--f : Victor, born:1499
+--f : Bryant, born:1600
+--f--f : Colten, born:1582
+--f--f--m : Mina, born:1555
+--f--f--m--m : Jimena, born:1528
+--f--f--m--m--f : Trystan, born:1502
+----------------
+Stella, born:1923
+--m : Liliana, born:1897
+--f : Irvin, born:1894
+----------------
+Ethan, born:1942
+--m : Ava, born:1913
+----------------
+Agustin, born:1744
+--m : Chana, born:1720
+--m--f : Logan, born:1699
+--m--f--f : Marco, born:1674
+----------------
+Abel, born:1845
+--m : Kirsten, born:1820
+--m--f : Mauricio, born:1795
+----------------
+Tayler, born:1989
+--f : Jerome, born:1961
+----------------
+Layla, born:1973
+--m : Bella, born:1952
+--m--m : Estefania, born:1935
+--m--f : Rafael, born:1927
+--m--f--f : Caden, born:1907
+----------------
+Brennen, born:1975
+--f : Micah, born:1953
+----------------
+Eugene, born:1969
+--m : Maia, born:1944
+--f : Josue, born:1946
+----------------
+Blaine, born:1941
+--m : Isabela, born:1921
+--f : Miguel, born:1922
+----------------
+Fabiola, born:1673
+--f : Austen, born:1641
+--f--m : Karissa, born:1623
+--f--m--f : Rodrigo, born:1599
+--f--m--f--m : Marlee, born:1571
+--f--m--f--m--m : Essence, born:1552
+--f--m--f--m--m--f : Ronaldo, born:1531
+--f--m--f--m--m--f--m : Sarina, born:1503
+--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--m--f--f : Bryant, born:1600
+--f--m--f--f--f : Colten, born:1582
+--f--m--f--f--f--m : Mina, born:1555
+--f--m--f--f--f--m--m : Jimena, born:1528
+--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--f : Kristofer, born:1708
+----------------
+Bo, born:1957
+--m : Maci, born:1937
+----------------
+Maribel, born:1959
+--f : Derrick, born:1940
+----------------
+Barbara, born:1926
+--f : Marcos, born:1896
+--f--f : Avery, born:1869
+----------------
+Makaila, born:1852
+--m : Hayley, born:1842
+--m--m : Desiree, born:1810
+--m--m--f : Deandre, born:1783
+--f : Tristen, born:1829
+--f--m : Desiree, born:1810
+--f--m--f : Deandre, born:1783
+----------------
+Shreya, born:1742
+--m : Alana, born:1719
+--m--m : Morgan, born:1815
+--m--f : Finn, born:1696
+--m--f--m : Jaclyn, born:1669
+--m--f--m--f : Austen, born:1641
+--m--f--m--f--m : Karissa, born:1623
+--m--f--m--f--m--f : Rodrigo, born:1599
+--m--f--m--f--m--f--m : Marlee, born:1571
+--m--f--m--f--m--f--m--m : Essence, born:1552
+--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--m--f--m--f--m--f--f : Bryant, born:1600
+--m--f--m--f--m--f--f--f : Colten, born:1582
+--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--m--f--m--f--f : Kristofer, born:1708
+----------------
+Amaya, born:1983
+--m : Meghan, born:1959
+----------------
+Christine, born:1919
+--m : Julie, born:1890
+--m--f : Izaiah, born:1862
+--m--f--f : Addison, born:1834
+--m--f--f--m : Jayden, born:1808
+--m--f--f--m--f : Darrius, born:1779
+--m--f--f--m--f--m : Carla, born:1755
+--m--f--f--m--f--m--f : Elvis, born:1729
+--m--f--f--f : Todd, born:1838
+--f : Luca, born:1892
+--f--f : Carson, born:1873
+--f--f--f : Kody, born:1853
+--f--f--f--m : Alysha, born:1830
+--f--f--f--m--f : Zakary, born:1809
+--f--f--f--f : Antonio, born:1824
+--f--f--f--f--f : Drew, born:1801
+--f--f--f--f--f--m : Reina, born:1783
+----------------
+Penelope, born:1872
+--m : Ciara, born:1843
+--m--m : Nina, born:1821
+----------------
+Diana, born:1973
+--f : Oswaldo, born:1950
+----------------
+Rashad, born:1919
+--f : Solomon, born:1893
+--f--m : Patricia, born:1871
+--f--m--f : Kody, born:1853
+--f--m--f--m : Alysha, born:1830
+--f--m--f--m--f : Zakary, born:1809
+--f--m--f--f : Antonio, born:1824
+--f--m--f--f--f : Drew, born:1801
+--f--m--f--f--f--m : Reina, born:1783
+--f--f : Jaydon, born:1878
+--f--f--f : Kody, born:1853
+--f--f--f--m : Alysha, born:1830
+--f--f--f--m--f : Zakary, born:1809
+--f--f--f--f : Antonio, born:1824
+--f--f--f--f--f : Drew, born:1801
+--f--f--f--f--f--m : Reina, born:1783
+----------------
+Landen, born:1874
+--m : Deja, born:1852
+--m--m : Scarlett, born:1828
+--m--m--f : Garrett, born:1805
+----------------
+Samantha, born:1986
+--m : Micah, born:1953
+----------------
+Michaela, born:1520
+--f : Trystan, born:1502
+----------------
+Gianna, born:1943
+--m : Patience, born:1921
+--m--f : Edwin, born:1902
+--m--f--m : Brittany, born:1881
+--m--f--f : August, born:1891
+--f : Jeffery, born:1953
+--f--m : Isabela, born:1921
+--f--f : Miguel, born:1922
+----------------
+Porter, born:1893
+--m : Patricia, born:1871
+--m--f : Kody, born:1853
+--m--f--m : Alysha, born:1830
+--m--f--m--f : Zakary, born:1809
+--m--f--f : Antonio, born:1824
+--m--f--f--f : Drew, born:1801
+--m--f--f--f--m : Reina, born:1783
+--f : Jaydon, born:1878
+--f--f : Kody, born:1853
+--f--f--m : Alysha, born:1830
+--f--f--m--f : Zakary, born:1809
+--f--f--f : Antonio, born:1824
+--f--f--f--f : Drew, born:1801
+--f--f--f--f--m : Reina, born:1783
+----------------
+Garett, born:1954
+--m : Alyssa, born:1929
+--m--f : Julian, born:1898
+----------------
+Kenzie, born:1864
+--f : Manuel, born:1837
+--f--f : Spencer, born:1809
+--f--f--m : Reina, born:1783
+----------------
+Lee, born:1964
+--f : Elliott, born:1938
+----------------
+Gunnar, born:1858
+--m : Jadyn, born:1826
+--m--m : Asia, born:1799
+--f : Jaquan, born:1966
+----------------
+Gerald, born:1874
+--f : Giovanny, born:1853
+--f--m : Keila, born:1830
+----------------
+Mitchell, born:1871
+--m : Annette, born:1848
+--m--m : Yadira, born:1823
+--m--m--m : Nicolette, born:1804
+--m--m--m--f : Sam, born:1786
+--m--m--m--f--m : Paris, born:1762
+--m--m--m--f--m--m : Dasia, born:1740
+--m--m--m--f--m--m--m : Chana, born:1720
+--m--m--m--f--m--m--m--f : Logan, born:1699
+--m--m--m--f--m--m--m--f--f : Marco, born:1674
+--f : Kai, born:1850
+--f--m : Yadira, born:1823
+--f--m--m : Nicolette, born:1804
+--f--m--m--f : Sam, born:1786
+--f--m--m--f--m : Paris, born:1762
+--f--m--m--f--m--m : Dasia, born:1740
+--f--m--m--f--m--m--m : Chana, born:1720
+--f--m--m--f--m--m--m--f : Logan, born:1699
+--f--m--m--f--m--m--m--f--f : Marco, born:1674
+----------------
+Grace, born:1973
+--f : Aaron, born:1948
+--f--f : Stephen, born:1924
+----------------
+Anne, born:1879
+--f : Steve, born:1860
+----------------
+Joy, born:1863
+--f : Manuel, born:1837
+--f--f : Spencer, born:1809
+--f--f--m : Reina, born:1783
+----------------
+Trevin, born:1870
+--m : Keeley, born:1847
+--m--m : Jalynn, born:1825
+--m--m--m : Lara, born:1806
+--m--m--f : Mekhi, born:1794
+--m--m--f--m : Roxana, born:1773
+--m--f : Justin, born:1846
+--m--f--f : Trevor, born:1820
+----------------
+Valerie, born:1524
+--m : Sarina, born:1503
+--m--m : Christiana, born:1484
+--m--m--f : Brian, born:1464
+--m--f : Victor, born:1499
+----------------
+Alexander, born:1884
+--m : Alisa, born:1853
+--m--f : Keyon, born:1825
+--m--f--f : Dwayne, born:1799
+--m--f--f--f : Salvatore, born:1777
+--m--f--f--f--m : Alisha, born:1757
+--m--f--f--f--m--f : Moises, born:1732
+--f : Dominique, born:1888
+--f--f : Gino, born:1864
+----------------
+Nyah, born:1901
+--f : Bernard, born:1875
+--f--m : Elise, born:1851
+--f--m--f : Gaige, born:1820
+--f--f : Isaac, born:1856
+----------------
+Leonard, born:1922
+--f : Julian, born:1898
+----------------
+Sophia, born:1954
+--m : Mayra, born:1930
+--m--f : Marcos, born:1896
+--m--f--f : Avery, born:1869
+----------------
+Tommy, born:1951
+--m : Payton, born:1933
+--f : Diego, born:1925
+----------------
+Nicole, born:1569
+--f : Jordan, born:1548
+--f--m : Jimena, born:1528
+--f--m--f : Trystan, born:1502
+----------------
+Efren, born:1979
+--m : Baylee, born:1960
+----------------
+Joey, born:1975
+--m : Jaliyah, born:1953
+----------------
+Irving, born:1969
+--m : Lia, born:1938
+--m--m : Maleah, born:1916
+--f : Dallin, born:1943
+----------------
+Carlton, born:1938
+--f : Tobias, born:1905
+--f--f : Rickey, born:1884
+--f--f--m : Hailee, born:1861
+--f--f--f : Nathaniel, born:1864
+----------------
+Omari, born:1950
+--m : Isabela, born:1921
+--f : Miguel, born:1922
+----------------
+Charity, born:1928
+--m : Aubree, born:1907
+--m--m : Kayla, born:1885
+--m--m--m : Eve, born:1859
+--m--m--m--m : Jamie, born:1835
+--m--m--m--f : Jamie, born:1835
+--m--f : Kale, born:1884
+--m--f--m : Hailee, born:1861
+--m--f--f : Nathaniel, born:1864
+----------------
+Jaylon, born:1931
+--f : Isaiah, born:1905
+----------------
+Ruby, born:1864
+--f : Cason, born:1838
+--f--f : Zakary, born:1809
+----------------
+Mohammad, born:1944
+--f : Bradley, born:1917
+--f--f : Humberto, born:1896
+----------------
+Stephan, born:1947
+--m : Aliya, born:1927
+--m--f : Ezekiel, born:1902
+--m--f--m : Kayla, born:1885
+--m--f--m--m : Eve, born:1859
+--m--f--m--m--m : Jamie, born:1835
+--m--f--m--m--f : Jamie, born:1835
+--m--f--f : Kale, born:1884
+--m--f--f--m : Hailee, born:1861
+--m--f--f--f : Nathaniel, born:1864
+----------------
+Blaise, born:1943
+--m : Leila, born:1922
+--m--m : Mckenna, born:1897
+--m--m--f : Camron, born:1874
+--m--f : Brenton, born:1903
+--m--f--f : Camron, born:1874
+----------------
+Julianne, born:1827
+--f : Drew, born:1801
+--f--m : Reina, born:1783
+----------------
+Arturo, born:1965
+--m : Karli, born:1941
+--m--m : Angela, born:1915
+--m--f : Trace, born:1908
+----------------
+Zoey, born:1966
+--f : Malachi, born:1942
+--f--m : Felicity, born:1923
+--f--m--m : Esperanza, born:1898
+--f--m--m--f : Tre, born:1872
+--f--m--m--f--f : Karson, born:1846
+----------------
+Preston, born:1853
+--m : Marissa, born:1828
+--m--f : Zakary, born:1809
+----------------
+Nico, born:1917
+--m : Elaine, born:1893
+--m--f : Marquise, born:1864
+--m--f--m : Keila, born:1830
+--f : Maximilian, born:1918
+--f--f : Jordon, born:1894
+--f--f--f : Zackery, born:1869
+--f--f--f--m : Sarai, born:1848
+----------------
+Krystal, born:1991
+--m : Chaya, born:1965
+----------------
+Ulysses, born:1974
+--f : Oswaldo, born:1950
+----------------
+Isis, born:1927
+--f : Glen, born:1907
+--f--m : Estrella, born:1880
+--f--m--f : Steve, born:1860
+--f--f : Alfredo, born:1880
+----------------
+Trent, born:1913
+--m : Melany, born:1959
+--m--m : Marie, born:1937
+--f : Arthur, born:1891
+--f--f : Stuart, born:1873
+--f--f--f : Thomas, born:1848
+----------------
+Cierra, born:1696
+--f : Marco, born:1674
+----------------
+Crystal, born:1957
+--m : Maci, born:1937
+----------------
+Franklin, born:1508
+--m : Christiana, born:1484
+--m--f : Brian, born:1464
+--f : Victor, born:1499
+----------------
+Evelyn, born:1949
+--f : Quincy, born:1922
+--f--f : Marcos, born:1896
+--f--f--f : Avery, born:1869
+----------------
+Madyson, born:1943
+--f : Abram, born:1916
+--f--f : Skyler, born:1896
+--f--f--m : Sheila, born:1868
+--f--f--m--m : Ciara, born:1843
+--f--f--m--m--m : Nina, born:1821
+----------------
+Miya, born:1830
+--m : Desiree, born:1810
+--m--f : Deandre, born:1783
+----------------
+Luz, born:1905
+--f : Rickey, born:1884
+--f--m : Hailee, born:1861
+--f--f : Nathaniel, born:1864
+----------------
+Jordance, born:1947
+--m : Aryanna, born:1952
+--f : Brenden, born:1919
+--f--m : Alycia, born:1901
+--f--m--m : Jazmyn, born:1877
+--f--m--m--f : Aditya, born:1850
+----------------
+Talon, born:1967
+--m : Alivia, born:1952
+--f : Mustafa, born:1949
+--f--f : Winston, born:1924
+----------------
+Houston, born:1894
+--m : Maria, born:1888
+--f : Conor, born:1874
+--f--m : Alize, born:1847
+----------------
+Lilly, born:1908
+--m : Angeline, born:1900
+--f : Deshaun, born:1882
+--f--f : Aidan, born:1861
+----------------
+Caleb, born:1957
+--m : Haley, born:1931
+--m--m : Brittney, born:1906
+--m--m--m : Brittany, born:1881
+--m--m--f : August, born:1891
+----------------
+Maxwell, born:1899
+--f : Kristopher, born:1870
+--f--m : Sarai, born:1848
+----------------
+Tristian, born:1557
+--f : Ronaldo, born:1531
+--f--m : Sarina, born:1503
+--f--m--m : Christiana, born:1484
+--f--m--m--f : Brian, born:1464
+--f--m--f : Victor, born:1499
+----------------
+Wendy, born:1999
+--m : Sally, born:1972
+----------------
+Gracie, born:1912
+--f : Marcus, born:1886
+--f--m : Reagan, born:1860
+--f--m--m : Aspen, born:1851
+--f--m--m--f : Jadyn, born:1826
+--f--m--m--f--m : Asia, born:1799
+--f--m--f : Bruno, born:1832
+--f--m--f--m : Asia, born:1799
+--f--f : Ariel, born:1877
+--f--f--m : Deja, born:1852
+--f--f--m--m : Scarlett, born:1828
+--f--f--m--m--f : Garrett, born:1805
+----------------
+Cecelia, born:1977
+--f : Brice, born:1952
+----------------
+Lauren, born:1963
+--f : Calvin, born:1941
+----------------
+Emilee, born:1922
+--m : Jolie, born:1898
+--m--m : Maria, born:1888
+--m--f : Conor, born:1874
+--m--f--m : Alize, born:1847
+----------------
+Jose, born:1868
+--m : Kacie, born:1850
+--m--m : Yadira, born:1823
+--m--m--m : Nicolette, born:1804
+--m--m--m--f : Sam, born:1786
+--m--m--m--f--m : Paris, born:1762
+--m--m--m--f--m--m : Dasia, born:1740
+--m--m--m--f--m--m--m : Chana, born:1720
+--m--m--m--f--m--m--m--f : Logan, born:1699
+--m--m--m--f--m--m--m--f--f : Marco, born:1674
+----------------
+Brynn, born:1959
+--m : Janessa, born:1935
+--m--f : Forrest, born:1910
+--f : Aiden, born:1954
+----------------
+Janice, born:1871
+--m : Keeley, born:1847
+--m--m : Jalynn, born:1825
+--m--m--m : Lara, born:1806
+--m--m--f : Mekhi, born:1794
+--m--m--f--m : Roxana, born:1773
+--m--f : Justin, born:1846
+--m--f--f : Trevor, born:1820
+----------------
+Jayde, born:1990
+--m : Deanna, born:1971
+--m--f : Aaron, born:1948
+--m--f--f : Stephen, born:1924
+--f : Rocco, born:1982
+----------------
+Austin, born:1967
+--f : Milton, born:1948
+----------------
+Kirk, born:1920
+--m : Katelyn, born:1900
+--m--f : Ben, born:1874
+--m--f--m : Keeley, born:1847
+--m--f--m--m : Jalynn, born:1825
+--m--f--m--m--m : Lara, born:1806
+--m--f--m--m--f : Mekhi, born:1794
+--m--f--m--m--f--m : Roxana, born:1773
+--m--f--m--f : Justin, born:1846
+--m--f--m--f--f : Trevor, born:1820
+--f : Damion, born:1932
+--f--m : Daisy, born:1906
+----------------
+Markus, born:1935
+--f : Glen, born:1907
+--f--m : Estrella, born:1880
+--f--m--f : Steve, born:1860
+--f--f : Alfredo, born:1880
+----------------
+Arielle, born:1717
+--m : Morgan, born:1815
+--f : Finn, born:1696
+--f--m : Jaclyn, born:1669
+--f--m--f : Austen, born:1641
+--f--m--f--m : Karissa, born:1623
+--f--m--f--m--f : Rodrigo, born:1599
+--f--m--f--m--f--m : Marlee, born:1571
+--f--m--f--m--f--m--m : Essence, born:1552
+--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--m--f--m--f--f : Bryant, born:1600
+--f--m--f--m--f--f--f : Colten, born:1582
+--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--m--f--f : Kristofer, born:1708
+----------------
+Jett, born:1987
+--f : Ashton, born:1962
+----------------
+Emma, born:1942
+--m : Rianna, born:1937
+--f : Dylan, born:1918
+--f--m : Bethany, born:1890
+--f--m--f : Giovanni, born:1865
+--f--f : Harley, born:1898
+--f--f--f : Stuart, born:1873
+--f--f--f--f : Thomas, born:1848
+----------------
+Valeria, born:1985
+--m : Donna, born:1963
+----------------
+Michael, born:1960
+--m : Devyn, born:1937
+--m--m : Ciera, born:1918
+--m--m--m : Tatyana, born:1897
+----------------
+Devin, born:1931
+--m : Daisy, born:1906
+----------------
+Latrell, born:1940
+--m : Guadalupe, born:1941
+--f : Jamar, born:1921
+--f--m : Ann, born:1895
+--f--m--f : Kristopher, born:1870
+--f--m--f--m : Sarai, born:1848
+--f--f : Elian, born:1908
+--f--f--m : Monserrat, born:1878
+--f--f--m--f : Giovanny, born:1853
+--f--f--m--f--m : Keila, born:1830
+----------------
+Maryam, born:1920
+--m : Melany, born:1959
+--m--m : Marie, born:1937
+--f : Arthur, born:1891
+--f--f : Stuart, born:1873
+--f--f--f : Thomas, born:1848
+----------------
+Antwan, born:1838
+--f : Spencer, born:1809
+--f--m : Reina, born:1783
+----------------
+Adriana, born:1959
+--m : Mayra, born:1930
+--m--f : Marcos, born:1896
+--m--f--f : Avery, born:1869
+----------------
+Orion, born:1995
+--m : Sally, born:1972
+----------------
+Kaylynn, born:1861
+--m : Jadyn, born:1826
+--m--m : Asia, born:1799
+--f : Jaquan, born:1966
+----------------
+Makenna, born:1905
+--m : Kaitlin, born:1883
+--m--m : Precious, born:1862
+--m--m--f : Darion, born:1841
+--m--m--f--m : Tristan, born:1821
+----------------
+Jair, born:1882
+--f : Cale, born:1864
+--f--m : Regina, born:1840
+--f--m--f : Trevor, born:1820
+----------------
+Lance, born:1973
+--m : Ella, born:1952
+----------------
+Rylie, born:1762
+--f : Nehemiah, born:1742
+--f--m : Alana, born:1719
+--f--m--m : Morgan, born:1815
+--f--m--f : Finn, born:1696
+--f--m--f--m : Jaclyn, born:1669
+--f--m--f--m--f : Austen, born:1641
+--f--m--f--m--f--m : Karissa, born:1623
+--f--m--f--m--f--m--f : Rodrigo, born:1599
+--f--m--f--m--f--m--f--m : Marlee, born:1571
+--f--m--f--m--f--m--f--m--m : Essence, born:1552
+--f--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--m--f--m--f--m--f--f : Bryant, born:1600
+--f--m--f--m--f--m--f--f--f : Colten, born:1582
+--f--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--m--f--m--f--f : Kristofer, born:1708
+----------------
+Daphne, born:1750
+--m : Alana, born:1719
+--m--m : Morgan, born:1815
+--m--f : Finn, born:1696
+--m--f--m : Jaclyn, born:1669
+--m--f--m--f : Austen, born:1641
+--m--f--m--f--m : Karissa, born:1623
+--m--f--m--f--m--f : Rodrigo, born:1599
+--m--f--m--f--m--f--m : Marlee, born:1571
+--m--f--m--f--m--f--m--m : Essence, born:1552
+--m--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--m--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--m--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--m--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--m--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--m--f--m--f--m--f--f : Bryant, born:1600
+--m--f--m--f--m--f--f--f : Colten, born:1582
+--m--f--m--f--m--f--f--f--m : Mina, born:1555
+--m--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--m--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--m--f--m--f--f : Kristofer, born:1708
+----------------
+Lexi, born:1899
+--m : Monserrat, born:1878
+--m--f : Giovanny, born:1853
+--m--f--m : Keila, born:1830
+----------------
+Kobe, born:1950
+--m : Maeve, born:1919
+--m--f : Emanuel, born:1897
+--f : Owen, born:1941
+----------------
+America, born:1955
+--m : Ashlee, born:1929
+--f : Brennan, born:1940
+----------------
+Clara, born:1995
+--f : Jerome, born:1961
+----------------
+Simone, born:1874
+--m : Kacie, born:1850
+--m--m : Yadira, born:1823
+--m--m--m : Nicolette, born:1804
+--m--m--m--f : Sam, born:1786
+--m--m--m--f--m : Paris, born:1762
+--m--m--m--f--m--m : Dasia, born:1740
+--m--m--m--f--m--m--m : Chana, born:1720
+--m--m--m--f--m--m--m--f : Logan, born:1699
+--m--m--m--f--m--m--m--f--f : Marco, born:1674
+----------------
+Adonis, born:1980
+--m : Sydney, born:1957
+--m--f : Antoine, born:1928
+----------------
+Carly, born:1941
+--m : Jenifer, born:1917
+--m--m : Bethany, born:1890
+--m--m--f : Giovanni, born:1865
+--m--f : Harley, born:1898
+--m--f--f : Stuart, born:1873
+--m--f--f--f : Thomas, born:1848
+--f : Payton, born:1933
+----------------
+Curtis, born:1986
+--f : Rene, born:1961
+--f--f : Elliott, born:1938
+----------------
+Jaheim, born:1964
+--f : Wilson, born:1940
+----------------
+Isaias, born:1987
+--f : Rene, born:1961
+--f--f : Elliott, born:1938
+----------------
+Kassandra, born:1912
+--m : Angeline, born:1900
+--f : Deshaun, born:1882
+--f--f : Aidan, born:1861
+----------------
+Roland, born:1981
+--f : Colton, born:1958
+----------------
+Jaylen, born:1725
+--m : Morgan, born:1815
+--f : Finn, born:1696
+--f--m : Jaclyn, born:1669
+--f--m--f : Austen, born:1641
+--f--m--f--m : Karissa, born:1623
+--f--m--f--m--f : Rodrigo, born:1599
+--f--m--f--m--f--m : Marlee, born:1571
+--f--m--f--m--f--m--m : Essence, born:1552
+--f--m--f--m--f--m--m--f : Ronaldo, born:1531
+--f--m--f--m--f--m--m--f--m : Sarina, born:1503
+--f--m--f--m--f--m--m--f--m--m : Christiana, born:1484
+--f--m--f--m--f--m--m--f--m--m--f : Brian, born:1464
+--f--m--f--m--f--m--m--f--m--f : Victor, born:1499
+--f--m--f--m--f--f : Bryant, born:1600
+--f--m--f--m--f--f--f : Colten, born:1582
+--f--m--f--m--f--f--f--m : Mina, born:1555
+--f--m--f--m--f--f--f--m--m : Jimena, born:1528
+--f--m--f--m--f--f--f--m--m--f : Trystan, born:1502
+--f--m--f--f : Kristofer, born:1708
+----------------
+Keyshawn, born:1757
+--f : Elvis, born:1729
+----------------
+Rachel, born:1978
+--f : Milton, born:1948
+----------------
+Gary, born:1878
+--m : Annette, born:1848
+--m--m : Yadira, born:1823
+--m--m--m : Nicolette, born:1804
+--m--m--m--f : Sam, born:1786
+--m--m--m--f--m : Paris, born:1762
+--m--m--m--f--m--m : Dasia, born:1740
+--m--m--m--f--m--m--m : Chana, born:1720
+--m--m--m--f--m--m--m--f : Logan, born:1699
+--m--m--m--f--m--m--m--f--f : Marco, born:1674
+--f : Kai, born:1850
+--f--m : Yadira, born:1823
+--f--m--m : Nicolette, born:1804
+--f--m--m--f : Sam, born:1786
+--f--m--m--f--m : Paris, born:1762
+--f--m--m--f--m--m : Dasia, born:1740
+--f--m--m--f--m--m--m : Chana, born:1720
+--f--m--m--f--m--m--m--f : Logan, born:1699
+--f--m--m--f--m--m--m--f--f : Marco, born:1674
+----------------
+Kya, born:1944
+--m : Karly, born:1920
+----------------
+Emmanuel, born:1956
+--m : Janessa, born:1935
+--m--f : Forrest, born:1910
+--f : Aiden, born:1954
+----------------
+Kieran, born:1929
+--m : Brittney, born:1906
+--m--m : Brittany, born:1881
+--m--f : August, born:1891
+----------------
+Tavion, born:1969
+--m : Odalys, born:1941
+----------------
+Melissa, born:1930
+--m : Aubree, born:1907
+--m--m : Kayla, born:1885
+--m--m--m : Eve, born:1859
+--m--m--m--m : Jamie, born:1835
+--m--m--m--f : Jamie, born:1835
+--m--f : Kale, born:1884
+--m--f--m : Hailee, born:1861
+--m--f--f : Nathaniel, born:1864
+----------------
+Kaylyn, born:1915
+--f : Justus, born:1885
+--f--m : Alisa, born:1853
+--f--m--f : Keyon, born:1825
+--f--m--f--f : Dwayne, born:1799
+--f--m--f--f--f : Salvatore, born:1777
+--f--m--f--f--f--m : Alisha, born:1757
+--f--m--f--f--f--m--f : Moises, born:1732
+--f--f : Dominique, born:1888
+--f--f--f : Gino, born:1864
+----------------
+Catherine, born:1951
+--m : Alanis, born:1922
+--m--m : Itzel, born:1901
+----------------
+Emily, born:2004
+--f : Kory, born:1986
+----------------
+Dillan, born:1962
+--f : Connor, born:1936
+----------------
+Deasia, born:1988
+--m : Donna, born:1963
+----------------
+Noelle, born:1892
+--f : Steve, born:1860
+----------------
+Gavin, born:1925
+--f : Keshawn, born:1902
+--f--m : Virginia, born:1883
+--f--f : Devante, born:1879
+----------------
+Dennis, born:1576
+--f : Jordan, born:1548
+--f--m : Jimena, born:1528
+--f--m--f : Trystan, born:1502
+----------------
+Mathew, born:1960
+--f : Kevin, born:1939
+----------------
+Darin, born:1899
+--m : Caitlyn, born:1873
+--m--m : Kelly, born:1848
+--m--m--m : Kirsten, born:1820
+--m--m--m--f : Mauricio, born:1795
+--f : Dontae, born:1877
+--f--m : Elise, born:1851
+--f--m--f : Gaige, born:1820
+--f--f : Isaac, born:1856
+----------------
+Johnathan, born:1920
+--m : Ann, born:1895
+--m--f : Kristopher, born:1870
+--m--f--m : Sarai, born:1848
+--f : Elian, born:1908
+--f--m : Monserrat, born:1878
+--f--m--f : Giovanny, born:1853
+--f--m--f--m : Keila, born:1830
+----------------
+Gabriel, born:1848
+--m : Tristan, born:1821
+----------------
+Nicholas, born:1934
+--m : Brittney, born:1906
+--m--m : Brittany, born:1881
+--m--f : August, born:1891
+----------------
+Reginald, born:1822
+--f : Mauricio, born:1795
+----------------
+Mary, born:1867
+--m : Tianna, born:1851
+--f : Dane, born:1841
+----------------
+Claire, born:1526
+--f : Trystan, born:1502
+----------------
+Karl, born:1985
+--f : Devonte, born:1962
+----------------
+Tania, born:1898
+--m : Jazmyn, born:1877
+--m--f : Aditya, born:1850
+----------------
+Tiana, born:1973
+--f : Casey, born:1942
+----------------
+Trista, born:1847
+--f : Keyon, born:1825
+--f--f : Dwayne, born:1799
+--f--f--f : Salvatore, born:1777
+--f--f--f--m : Alisha, born:1757
+--f--f--f--m--f : Moises, born:1732
+----------------
+Kellison, born:1955
+--m : Alyssa, born:1929
+--m--f : Julian, born:1898
+----------------
+Iyana, born:1984
+--f : Oswaldo, born:1950
+----------------
+Renee, born:1867
+--f : Darion, born:1841
+--f--m : Tristan, born:1821
+----------------
+Vanessa, born:1921
+--f : Clark, born:1897
+--f--f : Asa, born:1874
+--f--f--f : Pierre, born:1852
+--f--f--f--m : Hayley, born:1842
+--f--f--f--m--m : Desiree, born:1810
+--f--f--f--m--m--f : Deandre, born:1783
+--f--f--f--f : Tristen, born:1829
+--f--f--f--f--m : Desiree, born:1810
+--f--f--f--f--m--f : Deandre, born:1783
+----------------
+Paola, born:1509
+--m : Christiana, born:1484
+--m--f : Brian, born:1464
+--f : Victor, born:1499
+----------------
+Gisselle, born:1946
+--f : Jace, born:1916
+----------------
+Juan, born:1948
+--f : Randall, born:1929
+--f--f : Carl, born:1907
+--f--f--m : Carolyn, born:1881
+--f--f--m--f : Joan, born:1857
+--f--f--m--f--m : Annalise, born:1843
+--f--f--m--f--f : Allan, born:1835
+--f--f--m--f--f--f : Johnny, born:1810
+----------------
+Mitchel, born:1931
+--f : Isaiah, born:1905
+----------------
+Harmony, born:1958
+--f : Timothy, born:1928
+----------------
+Antonia, born:1966
+--m : Giana, born:1947
+--f : Hugh, born:1946
+--f--m : Katherine, born:1923
+----------------
+Theresa, born:1933
+--f : Tony, born:1908
+--f--f : Justus, born:1885
+--f--f--m : Alisa, born:1853
+--f--f--m--f : Keyon, born:1825
+--f--f--m--f--f : Dwayne, born:1799
+--f--f--m--f--f--f : Salvatore, born:1777
+--f--f--m--f--f--f--m : Alisha, born:1757
+--f--f--m--f--f--f--m--f : Moises, born:1732
+--f--f--f : Dominique, born:1888
+--f--f--f--f : Gino, born:1864
+----------------
+Marisol, born:1923
+--f : Humberto, born:1896
+----------------
+Johana, born:1944
+--f : Quincy, born:1922
+--f--f : Marcos, born:1896
+--f--f--f : Avery, born:1869
+----------------
+Cordell, born:1949
+--m : Patience, born:1921
+--m--f : Edwin, born:1902
+--m--f--m : Brittany, born:1881
+--m--f--f : August, born:1891
+--f : Jeffery, born:1953
+--f--m : Isabela, born:1921
+--f--f : Miguel, born:1922
+----------------
+Cyrus, born:1954
+--f : Antoine, born:1928
+----------------
+Jakayla, born:1920
+--m : Tatyana, born:1897
+----------------
+Alan, born:1851
+--f : Keyon, born:1825
+--f--f : Dwayne, born:1799
+--f--f--f : Salvatore, born:1777
+--f--f--f--m : Alisha, born:1757
+--f--f--f--m--f : Moises, born:1732
+----------------
+Jaidyn, born:1963
+--f : Kevin, born:1939
+----------------
+Aaliyah, born:1962
+--f : Wilson, born:1940
+----------------
+Montana, born:1860
+--m : Annalise, born:1843
+--f : Allan, born:1835
+--f--f : Johnny, born:1810
+----------------
+Braulio, born:1856
+--m : Hayley, born:1842
+--m--m : Desiree, born:1810
+--m--m--f : Deandre, born:1783
+--f : Tristen, born:1829
+--f--m : Desiree, born:1810
+--f--m--f : Deandre, born:1783
+----------------
+Quintin, born:1926
+--m : Alycia, born:1901
+--m--m : Jazmyn, born:1877
+--m--m--f : Aditya, born:1850
+----------------
+Nathen, born:1956
+--m : Jacqueline, born:1937
+----------------
+Chandler, born:1912
+--f : Rickey, born:1884
+--f--m : Hailee, born:1861
+--f--f : Nathaniel, born:1864
+----------------
+Duncan, born:1806
+--m : Reina, born:1783
+----------------
+Joelle, born:1895
+--f : Ray, born:1877
+--f--m : Annette, born:1848
+--f--m--m : Yadira, born:1823
+--f--m--m--m : Nicolette, born:1804
+--f--m--m--m--f : Sam, born:1786
+--f--m--m--m--f--m : Paris, born:1762
+--f--m--m--m--f--m--m : Dasia, born:1740
+--f--m--m--m--f--m--m--m : Chana, born:1720
+--f--m--m--m--f--m--m--m--f : Logan, born:1699
+--f--m--m--m--f--m--m--m--f--f : Marco, born:1674
+--f--f : Kai, born:1850
+--f--f--m : Yadira, born:1823
+--f--f--m--m : Nicolette, born:1804
+--f--f--m--m--f : Sam, born:1786
+--f--f--m--m--f--m : Paris, born:1762
+--f--f--m--m--f--m--m : Dasia, born:1740
+--f--f--m--m--f--m--m--m : Chana, born:1720
+--f--f--m--m--f--m--m--m--f : Logan, born:1699
+--f--f--m--m--f--m--m--m--f--f : Marco, born:1674
+----------------
+Ashtyn, born:1861
+--m : Jamie, born:1835
+--f : Jamie, born:1835
+----------------
+Alonzo, born:1964
+--m : Kailey, born:1943
+--m--f : Bradley, born:1917
+--m--f--f : Humberto, born:1896
+--f : Ali, born:1963
+----------------
+Shayne, born:1961
+--f : Kevin, born:1939
+----------------
+Amelia, born:1957
+--m : Viviana, born:1934
+--m--m : Ava, born:1913
+----------------
+Helena, born:1948
+--m : Leila, born:1922
+--m--m : Mckenna, born:1897
+--m--m--f : Camron, born:1874
+--m--f : Brenton, born:1903
+--m--f--f : Camron, born:1874
+----------------
+Angel, born:1980
+--m : Kira, born:1959
+----------------
+Josh, born:1961
+--f : Uriel, born:1935
+--f--m : Kyra, born:1910
+----------------
+Jimmy, born:1963
+--f : Willie, born:1944
+----------------
+Felipe, born:1981
+--m : Haleigh, born:1958
+--m--f : Griffin, born:1935
+----------------
+Iris, born:1484
+--f : Brian, born:1464
+----------------
+Ryder, born:1847
+--m : Nina, born:1821
+----------------
+Alonso, born:1975
+--m : Alivia, born:1952
+--f : Mustafa, born:1949
+--f--f : Winston, born:1924
+----------------
+Blake, born:1966
+--m : Jacqueline, born:1937
+----------------
+Mariam, born:1988
+--f : Abdullah, born:1966
+----------------
+Carlie, born:1959
+--f : Kennedy, born:1935
+----------------
+Dillon, born:1961
+--m : Jacqueline, born:1937
+----------------
+Eliza, born:1928
+--f : Julian, born:1898
+----------------
+Tara, born:1978
+--f : Corbin, born:1959
+----------------
+Alexia, born:1854
+--m : Alysha, born:1830
+--m--f : Zakary, born:1809
+--f : Antonio, born:1824
+--f--f : Drew, born:1801
+--f--f--m : Reina, born:1783
+----------------
+Melvin, born:1885
+--m : Deja, born:1852
+--m--m : Scarlett, born:1828
+--m--m--f : Garrett, born:1805
+----------------
+Adriel, born:1909
+--f : Marcus, born:1886
+--f--m : Reagan, born:1860
+--f--m--m : Aspen, born:1851
+--f--m--m--f : Jadyn, born:1826
+--f--m--m--f--m : Asia, born:1799
+--f--m--f : Bruno, born:1832
+--f--m--f--m : Asia, born:1799
+--f--f : Ariel, born:1877
+--f--f--m : Deja, born:1852
+--f--f--m--m : Scarlett, born:1828
+--f--f--m--m--f : Garrett, born:1805
+----------------
+Darien, born:1980
+--m : Kendal, born:1962
+----------------
+Alejandro, born:1831
+--f : Ricardo, born:1808
+--f--f : Deandre, born:1783
+----------------
+Tyler, born:1922
+--m : Katelyn, born:1900
+--m--f : Ben, born:1874
+--m--f--m : Keeley, born:1847
+--m--f--m--m : Jalynn, born:1825
+--m--f--m--m--m : Lara, born:1806
+--m--f--m--m--f : Mekhi, born:1794
+--m--f--m--m--f--m : Roxana, born:1773
+--m--f--m--f : Justin, born:1846
+--m--f--m--f--f : Trevor, born:1820
+--f : Damion, born:1932
+--f--m : Daisy, born:1906
+----------------
+Stephon, born:1906
+--f : Stuart, born:1873
+--f--f : Thomas, born:1848
+----------------
+Alexsis, born:1939
+--m : Ciera, born:1918
+--m--m : Tatyana, born:1897
+----------------
+Gannon, born:1763
+--f : Moises, born:1732
+----------------
+Sidney, born:1951
+--m : Karley, born:1959
+--m--f : Uriel, born:1935
+--m--f--m : Kyra, born:1910
+--f : Jamel, born:1930
+--f--m : Kyra, born:1910
+----------------
+Jovany, born:1781
+--m : Alisha, born:1757
+--m--f : Moises, born:1732
+----------------
+Dominik, born:1966
+--f : Uriel, born:1935
+--f--m : Kyra, born:1910
+----------------
+Cody, born:1889
+--f : Aidan, born:1861
+----------------
+Deven, born:1956
+--m : Ashlee, born:1929
+--f : Brennan, born:1940
+----------------
+Maxim, born:1942
+--m : Mara, born:1922
+--m--f : Heriberto, born:1894
+--m--f--f : Zackery, born:1869
+--m--f--f--m : Sarai, born:1848
+----------------
+Triston, born:1901
+--f : Kristopher, born:1870
+--f--m : Sarai, born:1848
+----------------
+Blanca, born:1917
+--f : Solomon, born:1893
+--f--m : Patricia, born:1871
+--f--m--f : Kody, born:1853
+--f--m--f--m : Alysha, born:1830
+--f--m--f--m--f : Zakary, born:1809
+--f--m--f--f : Antonio, born:1824
+--f--m--f--f--f : Drew, born:1801
+--f--m--f--f--f--m : Reina, born:1783
+--f--f : Jaydon, born:1878
+--f--f--f : Kody, born:1853
+--f--f--f--m : Alysha, born:1830
+--f--f--f--m--f : Zakary, born:1809
+--f--f--f--f : Antonio, born:1824
+--f--f--f--f--f : Drew, born:1801
+--f--f--f--f--f--m : Reina, born:1783
+----------------
+Adrian, born:1907
+--m : Kaitlin, born:1883
+--m--m : Precious, born:1862
+--m--m--f : Darion, born:1841
+--m--m--f--m : Tristan, born:1821
+----------------
+Nya, born:1963
+--f : Casey, born:1942
+----------------
+Isaak, born:1872
+--m : Sarai, born:1848
+----------------
+Antony, born:1954
+--m : Shyann, born:1930
+--m--f : Isaiah, born:1905
+----------------
+Emilio, born:1887
+--m : Kristina, born:1865
+--m--m : Tianna, born:1851
+--m--f : Dane, born:1841
+----------------
+Gael, born:1862
+--m : Aspen, born:1851
+--m--f : Jadyn, born:1826
+--m--f--m : Asia, born:1799
+--f : Bruno, born:1832
+--f--m : Asia, born:1799
+----------------
+Janiya, born:1964
+--m : Lexie, born:1935
+----------------
+Reuben, born:1970
+--f : Devon, born:1942
+----------------
+Katelin, born:1980
+--f : Micah, born:1953
+----------------
+Casandra, born:1964
+--f : Chaim, born:1946
+--f--f : Stephen, born:1924
+----------------
+Gustavo, born:1900
+--f : Myles, born:1872
+--f--f : Pierre, born:1852
+--f--f--m : Hayley, born:1842
+--f--f--m--m : Desiree, born:1810
+--f--f--m--m--f : Deandre, born:1783
+--f--f--f : Tristen, born:1829
+--f--f--f--m : Desiree, born:1810
+--f--f--f--m--f : Deandre, born:1783
+----------------
+Elvin, born:1855
+--m : Jalynn, born:1825
+--m--m : Lara, born:1806
+--m--f : Mekhi, born:1794
+--m--f--m : Roxana, born:1773
+--f : Justin, born:1846
+--f--f : Trevor, born:1820
+----------------
+Rahul, born:1930
+--m : Ann, born:1895
+--m--f : Kristopher, born:1870
+--m--f--m : Sarai, born:1848
+--f : Elian, born:1908
+--f--m : Monserrat, born:1878
+--f--m--f : Giovanny, born:1853
+--f--m--f--m : Keila, born:1830
+----------------
+Phoebe, born:1921
+--m : Bethany, born:1890
+--m--f : Giovanni, born:1865
+--f : Harley, born:1898
+--f--f : Stuart, born:1873
+--f--f--f : Thomas, born:1848
+----------------
+Annabella, born:1981
+--f : Lane, born:1962
+----------------
+Carolina, born:1890
+--f : Cale, born:1864
+--f--m : Regina, born:1840
+--f--m--f : Trevor, born:1820
+----------------
+Rylee, born:1983
+--m : Shirley, born:1965
+----------------
+Ezra, born:1943
+--m : Patience, born:1921
+--m--f : Edwin, born:1902
+--m--f--m : Brittany, born:1881
+--m--f--f : August, born:1891
+--f : Jeffery, born:1953
+--f--m : Isabela, born:1921
+--f--f : Miguel, born:1922
+----------------
+Bret, born:1860
+--m : Regina, born:1840
+--m--f : Trevor, born:1820
+----------------
+Rodney, born:1933
+--m : Kyra, born:1910
+----------------
+Donovan, born:1886
+--f : Cale, born:1864
+--f--m : Regina, born:1840
+--f--m--f : Trevor, born:1820

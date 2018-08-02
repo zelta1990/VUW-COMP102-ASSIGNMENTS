@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=rows\ cols
+comment0.target=void\ drawRandomImage(int,\ int)
+comment0.text=\ Draw\ an\ image\ made\ of\ squares\ of\ random\ colours\n\ \ \ \ left\ and\ top,\ are\ the\ position\ of\ the\ top-left\ corner\n\ \ \ \ rows\ and\ cols\ specify\ the\ number\ of\ rows\ and\ colums\ of\ squares\n\ \ \ \ size\ specifies\ the\ size\ of\ the\ individual\ squares.\n
+comment1.params=rows\ cols
+comment1.target=void\ drawGradient(int,\ int)
+comment1.text=\ Draw\ an\ image\ that\ is\ a\ smooth\ gradient\ from\ red\ at\ the\ top\n\ \ \ \ to\ green\ at\ the\ bottom.\n
+comment2.params=
+comment2.target=ImageExercise()
+comment2.text=Constructor\:\ set\ up\ user\ interface
+comment3.params=
+comment3.target=void\ doDrawRandom()
+comment4.params=
+comment4.target=void\ doDrawGradient()
+numComments=5

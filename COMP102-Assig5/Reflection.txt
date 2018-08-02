@@ -1,0 +1,30 @@
+COMP 102  Assignment 5
+Name:Xiaoshi Xie
+ID:300366345
+
+Questions for Reflection: 
+=========================
+
+
+1. ClassTimes and ImageRenderer both got their input from a file.
+Explain some of the differences between reading data from a file and reading
+data directly from the user.
+Reading data from a file saves a lot time than reading directly from the user.The former mainly uses scanner method while the latter uses input methods from UI class.The former requires using try and catch toddle with exceptions when scanning files while the latter doesn’t. 
+
+2. The series of methods in ClassTimes were progressively more tricky. Identify
+what it was about the later ones that made them more difficult.
+To accurately locate the required value in an input.
+
+3. The lines in newClassdata.txt were sorted by the coursecode. What queries would
+be easier or have nicer output if they had been sorted by one of the other fields?
+The room booking information, if file be sorted by room code.
+
+4. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last week, fixing up any of the descriptions if you have a
+better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them. 
+Last week’s concepts:nextInt(),nextLine().These methods wait for the user’s input.
+This week’s concepts:1.try and catch.This method can be used to analyse what goes wrong when reading a file.
+2.PrintStream class. Used for writing to a file.
+

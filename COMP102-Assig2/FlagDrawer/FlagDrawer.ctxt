@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FlagDrawer()
+comment0.text=Constructor,\ sets\ up\ the\ user\ interface
+comment1.params=
+comment1.target=void\ ugandaFlag()
+comment1.text=\ The\ flag\ for\ Uganda\ consists\ of\ 6\ strips\ (black,\ yellow,\ red,\ black,\ yellow,\ red)\n\ \ with\ a\ white\ circle\ in\ the\ center.\n\ \ CORE\n
+comment2.params=
+comment2.target=void\ norwayFlag()
+comment2.text=\ The\ flag\ for\ Norway\ is\ a\ red\ rectangle\ with\n\ \ a\ blue\ cross\ with\ a\ white\ border,\ slightly\ off-set\ to\ the\ left-hand\ side;\n\ \ CORE\n
+comment3.params=
+comment3.target=void\ maldivesFlag()
+comment3.text=\ The\ flag\ for\ Maldives\ is\ a\ red\ rectangle\ with\n\ \ a\ smaller\ green\ rectangle\ in\ the\ middle\ and\ a\ white\ crescent\ in\ the\ center;\n\ \ CORE\n
+comment4.params=
+comment4.target=void\ greenlandFlag()
+comment4.text=\ The\ flag\ for\ Greenland\ is\ a\ rectangle\ whose\ top\ half\ is\ white\n\ \ and\ bottom\ half\ is\ red.\ There\ is\ a\ circle\ in\ the\ middle\ (off-set\ to\ left)\ \n\ \ which\ is\ also\ half\ white/red\ but\ on\ the\ opposite\ sides.\n\ \ COMPLETION\n
+comment5.params=
+comment5.target=void\ pacmanFlag()
+comment5.text=\ Pacman\n\ \ A\ red\ pacman\ facing\ left\ on\ a\ black\ background\ chasing\ green,\ yellow\ and\ blue\ dots.\n\ \ From\ left\ to\ right\ the\ dots\ are\ blue,\ yellow,\ and\ green\n\ \ COMPLETION\n
+comment6.params=
+comment6.target=void\ basqueFlag()
+comment6.text=\ The\ flag\ for\ the\ Basque\ Country\ is\ a\ red\ rectangle\ with\n\ \ a\ green\ diagonal\ cross\ and\ a\ white\ cross.\n\ \ CHALLENGE\n
+comment7.params=
+comment7.target=void\ jamaicaFlag()
+comment7.text=\ The\ Jamaican\ flag\ has\ a\ yellow\ diagonal\ cross\ with\ \n\ \ green\ triangles\ top\ and\ bottom,\ and\ black\ triangles\ left\ and\ right.\n\ \ There\ is\ no\ fillTriangle\ method\ in\ the\ UI\ class\!\n\ \ CHALLENGE\n
+numComments=8

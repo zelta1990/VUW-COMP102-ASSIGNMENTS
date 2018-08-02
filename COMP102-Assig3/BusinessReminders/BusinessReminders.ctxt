@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BusinessReminders()
+comment0.text=Constructor\:\ set\ up\ user\ interface
+comment1.params=
+comment1.target=void\ vetReminder()
+comment1.text=\n\ Write\ out\ a\ series\ of\ at\ least\ five\ reminders\ to\ pet\ owners.\n\ Each\ reminder\ should\ \n\ -\ be\ addressed\ to\ a\ different\ person\n\ -\ refer\ to\ their\ pet's\ name\ and\ the\ type\ of\ animal\ several\ time\n\ -\ indicate\ the\ price\ of\ the\ visit.\n\ vetReminder\ should\ repeatedly\ call\ a\ method\ which\ sends\ a\ reminder\ to\ a\ single\ pet\ owner,\n\ passing\ different\ arguments\ to\ the\ method\ each\ time.\n
+comment2.params=ownerName\ petType\ petName\ price
+comment2.target=void\ sendToPetOwner(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=
+comment3.target=void\ wofReminder()
+comment3.text=\n\ Write\ out\ a\ series\ of\ at\ least\ five\ Warrant\ of\ fitness\ reminders.\n\ Each\ reminder\ should\n\ -\ be\ addressed\ to\ a\ different\ person\ using\ both\ their\ full\ name\ and\ their\ first\ name\n\ -\ refer\ to\ the\ car\ type\ (several\ times),\ registration,\ and\ the\ year\ the\ vehicle\ was\n\ \ \ first\ registered\n\ -\ remind\ the\ owner\ the\ number\ of\ months\ the\ warrant\ of\ fitness\ will\ be\ issued\ for\n\ \ \ (6\ or\ 12)\ and\ the\ warrant\ due\ date\n\ -\ recommend\ another\ service\ indicating\ its\ price\n\ -\ offer\ a\ 10%\ discount\ of\ the\ total\ cost\ if\ the\ owner\ decides\ to\ book\ for\ both\n\ \ \ the\ warrant\ of\ fitness\ and\ the\ extra\ service\n\ -\ indicate\ the\ total\ cost\ after\ discount\ (with\ 2\ decimal\ places).\n
+comment4.params=ownerName\ carType\ month\ regDate\ carName\ service\ price\ cost\ firstName
+comment4.target=void\ writeWofReminder(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+numComments=5

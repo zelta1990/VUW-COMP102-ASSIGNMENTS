@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PetShow()
+comment0.text=Constructor\:\ set\ up\ user\ interface
+comment1.params=
+comment1.target=void\ animate()
+comment1.text=\ animate\ creates\ two\ animals\ on\ the\ window.\n\ \ Then\ animates\ them\ according\ to\ a\ fixed\ script\ by\ calling\ a\ series\n\ \ of\ methods\ on\ the\ figures.\n
+comment2.params=
+comment2.target=void\ threeAnimalsRoutine()
+comment2.text=\ threeDancers\ creates\ three\ animals\ on\ the\ window.\n\ \ Then\ makes\ each\ animal\ do\ the\ same\ routine\ in\ turn.\n\ \ You\ should\ define\ a\ routine\ method,\ and\ threeAnimalsRoutine\n\ \ \ should\ call\ the\ routine\ method\ three\ times,\ to\ make\n\ \ \ each\ of\ the\ three\ animals\ perfomr\ the\ routine\ in\ turn.\n
+comment3.params=animal
+comment3.target=void\ routine(Animal)
+numComments=4

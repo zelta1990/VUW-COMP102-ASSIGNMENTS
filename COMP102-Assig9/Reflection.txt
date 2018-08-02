@@ -1,0 +1,27 @@
+COMP 102  Assignment 9
+Name:
+ID:
+
+Questions for Reflection: 
+=========================
+
+
+1. Some of the methods in the ImageProcessor program could be done in two
+different ways: "in-place" (only using the array containing the image), or
+using a temporary array to store the image as it was being processed. Discuss
+the advantages and disadvantages of the two approaches. 
+Advantage of in-place:save storage
+disadvantage of in-place:time-consuming
+advantage of using temporary array:Time-saving.Easy reference.
+disadvantage of using temporary array:need more storage
+
+
+2. Add to your programming "concept map" the additional concepts about
+programming and about Java that you have learned this week. (As usual, copy
+your answer from last assignment, fixing up any of the descriptions if you have
+a better understanding of them now, and add the new concepts you have acquired
+this week, along with one sentence descriptions of them.
+Last week’s concept:
+wrapper class：A class to wrap up numbers into objects.
+This week’s concept:
+2D array:An array that has two dimensions to store same type of data.

@@ -1,0 +1,114 @@
+Bookings for room VZ515
+-----------------------------------
+Course: ACCY111
+Time: Tue 1000 1050
+Session: Tutorial
+
+Course: ACCY130
+Time: Thu 1310 1400
+Session: Tutorial
+
+Course: ACCY130
+Time: Tue 1310 1400
+Session: Tutorial
+
+Course: ACCY130
+Time: Wed 1100 1150
+Session: Tutorial
+
+Course: ACCY130
+Time: Wed 1310 1400
+Session: Tutorial
+
+Course: ASIA101
+Time: Tue 1510 1600
+Session: Tutorial
+
+Course: CHIN211
+Time: Thu 1000 1050
+Session: Tutorial
+
+Course: EPSY141
+Time: Fri 1100 1150
+Session: Tutorial
+
+Course: FREN315
+Time: Thu 1410 1500
+Session: Tutorial
+
+Course: FREN403
+Time: Mon 1310 1500
+Session: Lecture
+
+Course: GERM103
+Time: Fri 1200 1250
+Session: Tutorial
+
+Course: GERM103
+Time: Fri 1310 1400
+Session: Tutorial
+
+Course: JAPA111
+Time: Wed 1200 1250
+Session: Tutorial
+
+Course: JAPA204
+Time: Fri 1000 1050
+Session: Tutorial
+
+Course: JAPA204
+Time: Fri 1410 1500
+Session: Tutorial
+
+Course: JAPA304
+Time: Thu 900 950
+Session: Tutorial
+
+Course: LING322
+Time: Thu 1510 1600
+Session: Tutorial
+
+Course: MATH200
+Time: Tue 900 950
+Session: Tutorial
+
+Course: PHIL105
+Time: Wed 1410 1500
+Session: Tutorial
+
+Course: QUAN102
+Time: Wed 1510 1600
+Session: Tutorial
+
+Course: SPAN111
+Time: Mon 1000 1050
+Session: Tutorial
+
+Course: SPAN111
+Time: Mon 1200 1250
+Session: Tutorial
+
+Course: SPAN111
+Time: Mon 1510 1600
+Session: Tutorial
+
+Course: SPAN111
+Time: Mon 1610 1700
+Session: Tutorial
+
+Course: SPAN111
+Time: Tue 1610 1700
+Session: Tutorial
+
+Course: SPAN215
+Time: Thu 1610 1700
+Session: Tutorial
+
+Course: SPAN315
+Time: Mon 1100 1150
+Session: Tutorial
+
+Course: SPAN315
+Time: Wed 1000 1050
+Session: Tutorial
+

@@ -1,0 +1,106 @@
+Bookings for room SUMT228
+-----------------------------------
+Course: COMP102
+Time: Fri 1000 1050
+Session: Lecture
+
+Course: COMP102
+Time: Mon 1000 1050
+Session: Lecture
+
+Course: COMP102
+Time: Tue 1000 1050
+Session: Lecture
+
+Course: ENGL117
+Time: Fri 1510 1600
+Session: Lecture
+
+Course: ENGL117
+Time: Thu 1510 1600
+Session: Lecture
+
+Course: ENGL117
+Time: Tue 1510 1600
+Session: Lecture
+
+Course: ENGL201
+Time: Mon 1200 1250
+Session: Lecture
+
+Course: ENGL232
+Time: Wed 1410 1500
+Session: Lecture
+
+Course: EPSY141
+Time: Fri 900 950
+Session: Lecture
+
+Course: EPSY141
+Time: Tue 900 950
+Session: Lecture
+
+Course: FILM101
+Time: Mon 1410 1700
+Session: FilmLecture
+
+Course: INTP113
+Time: Fri 1100 1150
+Session: Lecture
+
+Course: INTP113
+Time: Mon 1100 1150
+Session: Lecture
+
+Course: INTP113
+Time: Thu 1100 1150
+Session: Lecture
+
+Course: INTP371
+Time: Fri 1310 1500
+Session: Lecture
+
+Course: MARK101
+Time: Thu 1200 1350
+Session: Lecture
+
+Course: MUSC105
+Time: Mon 900 950
+Session: Lecture
+
+Course: MUSC105
+Time: Wed 900 1050
+Session: Lecture
+
+Course: PHIL106
+Time: Fri 1200 1250
+Session: Lecture
+
+Course: PHIL106
+Time: Tue 1200 1250
+Session: Lecture
+
+Course: PSYC232
+Time: Mon 1310 1400
+Session: Lecture
+
+Course: PSYC232
+Time: Tue 1310 1400
+Session: Lecture
+
+Course: PSYC232
+Time: Wed 1310 1400
+Session: Lecture
+
+Course: SWEN303
+Time: Tue 1100 1150
+Session: Lecture
+
+Course: SWEN303
+Time: Wed 1100 1150
+Session: Lecture
+
+Course: THEA201
+Time: Wed 1410 1500
+Session: Lecture
+

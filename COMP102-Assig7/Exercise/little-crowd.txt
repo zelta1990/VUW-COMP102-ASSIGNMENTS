@@ -1,0 +1,6 @@
+5
+snake Sneaky 400 166
+bird Fred 190 302
+grasshoper Jumpy 225 143
+dinosaur Nessie 346 359
+turtle Berthie 98 80

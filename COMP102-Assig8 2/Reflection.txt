@@ -1,0 +1,27 @@
+COMP 102  Assignment 8
+Name:
+ID:
+
+Questions for Reflection: 
+=========================
+
+
+1. Explain why "off-by-one" errors are so easy to make when programming with
+arrays.
+Because it’s easy to forget that an array counts from 0 instead of 1.
+
+2. Both CardGame and Genealogy used another class that was written for you.
+This saved you writing some code, but also constrained you to write the program in a particular way. 
+Discuss advantages and disadvantages you found when having a predefined class that you had to use as part of your program.
+The advantage is that you can call the methods of predefined class in current class conveniently.The disadvantage is that you can’t make changes to that predefined class.
+
+3. Add to your programming "concept map" the additional concepts about programming and about Java that you
+have learned this week. (As usual, copy your answer from last assignment, fixing up any of the descriptions
+if you have a better understanding of them now, and add the new concepts you have acquired this week, along
+with one sentence descriptions of them.
+Last week’s concept:
+Array:an object with a sequence of places to store the same type of values.
+ArrayLists: lists of values that can grow and shrink; a class in the standard libraries.
+
+This week’s concept:
+wrapper class：A class to wrap up numbers into objects.
